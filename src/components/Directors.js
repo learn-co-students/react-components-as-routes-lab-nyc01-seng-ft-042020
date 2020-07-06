@@ -14,7 +14,7 @@ const Directors = () => {
   console.log(directors)
   return (
     <div>
-      <h1>Directors</h1>
+      <h1>Directors Page</h1>
       {renderDirectors()}
     </div>
   );
